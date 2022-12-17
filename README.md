@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **C, React, Solidity, Python, Javascript, Artifical Intelligence, WEB3...**
 
-- 📫 How to reach me **bankejesukenn@gmail.com**
+- 📫 How to reach me **bankejesukenny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
