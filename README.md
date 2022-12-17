@@ -1,8 +1,8 @@
-<h3 align="center">A passionate petroleum engineer,software engineer, UI designer & UX expert from Nigeria</h3>
+<h3 align="center">A passionate Petroleum Engineer,Software Engineer, UI designer & UX expert from Nigeria</h3>
 
 - 🌱 I’m currently learning **React, Django, Alx Software Engineering Course, Dataquest Data Science Course**
 
-- 💬 Ask me about **C, React, Solidity, Python, Javascript, Artifical Intelligence...**
+- 💬 Ask me about **C, React, Solidity, Python, Javascript, Artifical Intelligence, WEB3...**
 
 - 📫 How to reach me **bankejesukenn@gmail.com**
 
